@@ -140,7 +140,7 @@ ul li a:hover {
   padding: 16px;
   border-radius: 50%;
   cursor: pointer;
-  transition: background 0.2s ease-in-out;
+  transition: background-color 0.2s ease-in-out;
 }
 
 #social-links ion-icon:hover {
