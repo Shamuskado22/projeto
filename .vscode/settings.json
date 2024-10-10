@@ -28,5 +28,5 @@
       "source": "Git Bash"
     }
   },
-  "terminal.integrated.defaultProfile.linux": "git-shell"
+  "terminal.integrated.defaultProfile.linux": "bash"
 }
